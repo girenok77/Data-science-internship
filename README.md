@@ -1,1 +1,1 @@
-# DRU-DS100-w3
+Tasks from internship at [DataRoot Labs](https://datarootlabs.com/)
